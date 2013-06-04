@@ -51,5 +51,6 @@ public class GitAssignment
                 System.out.println("Deepthi Nelavelli");
                 System.out.println("Soniya Mogre");
                 System.out.println("Pravallika Ponna");
+                System.out.println("Santhosh Palla");
 	}
 }
