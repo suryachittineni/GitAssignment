@@ -8,24 +8,27 @@ package gitassignment;
  *
  * @author suryachittineni
  */
-public class GitAssignment {
+public class GitAssignment
+{
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Surya Teja Chittineni");
-        System.out.println("Danam Mahender");
-        System.out.println("Rishi Chowdary Pentyala");
-        System.out.println("\nSatish Kumar Baswapuram");
-        System.out.println("Vidhatri Manoor");
-        System.out.println("Anusha Punugu");
-        System.out.println("Vineela Yedavalli");
-        System.out.println("sai siddarth yerrabacha");
-        System.out.println("Shruthi Reddy Gummadi");
-        System.out.println("Divya Sadhineni");
-		  System.out.println("Sujith Kumar Tummala");
-                  System.out.println("Abhinay Reddy Ragi");
-                  System.out.println("Sravani Daparthi");
-    }
+	/**
+	 * @param args the command line arguments
+	 */
+	public static void main(String[] args)
+	{
+		System.out.println("Surya Teja Chittineni");
+		System.out.println("Danam Mahender");
+		System.out.println("Rishi Chowdary Pentyala");
+		System.out.println("\nSatish Kumar Baswapuram");
+		System.out.println("Vidhatri Manoor");
+		System.out.println("Anusha Punugu");
+		System.out.println("Vineela Yedavalli");
+		System.out.println("sai siddarth yerrabacha");
+		System.out.println("Shruthi Reddy Gummadi");
+		System.out.println("Divya Sadhineni");
+		System.out.println("Sujith Kumar Tummala");
+		System.out.println("Abhinay Reddy Ragi");
+		System.out.println("Sravani Daparthi");
+		System.out.println("Chaitanya Sagar Peddaboodhi");
+	}
 }
