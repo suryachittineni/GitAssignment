@@ -44,5 +44,7 @@ public class GitAssignment
                 System.out.println("Sindhuri Mutyala");
                 System.out.println("Phani Kumar Kodavati");
                 System.out.println("Ayesha Shaik");
+                System.out.println("poojitha Kanagala");
+               
 	}
 }
