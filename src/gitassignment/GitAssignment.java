@@ -52,5 +52,6 @@ public class GitAssignment
                 System.out.println("Soniya Mogre");
                 System.out.println("Pravallika Ponna");
                 System.out.println("Santhosh Palla");
+                System.out.println("Mrudula Yalamandala");
 	}
 }
