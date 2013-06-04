@@ -20,5 +20,6 @@ public class GitAssignment {
         System.out.println("\nSatish Kumar Baswapuram");
         System.out.println("Vidhatri Manoor");
         System.out.println("Anusha Punugu");
+        System.out.println("Vineela Yedavalli");
     }
 }
