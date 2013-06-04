@@ -15,5 +15,6 @@ public class GitAssignment {
      */
     public static void main(String[] args) {
         System.out.println("Surya Teja Chittineni");
+        System.out.println("Danam Mahender");
     }
 }
