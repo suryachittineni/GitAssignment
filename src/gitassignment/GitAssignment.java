@@ -43,6 +43,5 @@ public class GitAssignment
                 System.out.println("Mohan Muralidhar Bikkina");
                 System.out.println("Sindhuri Mutyala");
                 System.out.println("Phani Kumar Kodavati");
-                System.out.println("Mohammed Jawad Shafi");
 	}
 }
