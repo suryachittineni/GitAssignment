@@ -50,5 +50,6 @@ public class GitAssignment
                 System.out.println("Sradhika Chinthapatla");
                 System.out.println("Deepthi Nelavelli");
                 System.out.println("Soniya Mogre");
+                System.out.println("Pravallika Ponna");
 	}
 }
