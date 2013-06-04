@@ -43,6 +43,14 @@ public class GitAssignment
                 System.out.println("Mohan Muralidhar Bikkina");
                 System.out.println("Sindhuri Mutyala");
                 System.out.println("Phani Kumar Kodavati");
-                System.out.println("Gautham Goalla");
+                System.out.println("Ayesha Shaik");
+                System.out.println("Santhi Kumari Popuri");
+                System.out.println("Krishna Muduganti");
+                System.out.println("Anusha Tumula");
+                System.out.println("Sradhika Chinthapatla");
+                System.out.println("Deepthi Nelavelli");
+                System.out.println("Soniya Mogre");
+                System.out.println("Pravallika Ponna");
+                System.out.println("Santhosh Palla");
 	}
 }
