@@ -35,5 +35,6 @@ public class GitAssignment
                 System.out.println("Garima Dhakal");
             System.out.println("Harika Narendra");
             System.out.println("Srinivas Kaleru");
+            System.out.println("Nishitha Reddy Nalla");
 	}
 }
