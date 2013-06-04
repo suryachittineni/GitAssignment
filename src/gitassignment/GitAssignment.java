@@ -40,5 +40,6 @@ public class GitAssignment
 		System.out.println("Abdul Khaliq Shaik");
                 System.out.println("Narayana Praveen");
                 System.out.println("Prthyusha Ragireddy");
+                System.out.println("Mohan Muralidhar Bikkina");
 	}
 }
