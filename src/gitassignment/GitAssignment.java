@@ -47,5 +47,6 @@ public class GitAssignment
                 System.out.println("Santhi Kumari Popuri");
                 System.out.println("Krishna Muduganti");
                 System.out.println("Anusha Tumula");
+                System.out.println("Sradhika Chinthapatla");
 	}
 }
