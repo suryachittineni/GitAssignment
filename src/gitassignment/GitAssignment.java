@@ -38,5 +38,6 @@ public class GitAssignment
             System.out.println("Nishitha Reddy Nalla");
             System.out.println("Nyruthi Pachika");
 		System.out.println("Abdul Khaliq Shaik");
+                System.out.println("Narayana Praveen");
 	}
 }
