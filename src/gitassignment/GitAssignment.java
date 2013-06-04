@@ -46,5 +46,6 @@ public class GitAssignment
                 System.out.println("Ayesha Shaik");
                 System.out.println("Santhi Kumari Popuri");
                 System.out.println("Krishna Muduganti");
+                System.out.println("Santhosh Palla");
 	}
 }
