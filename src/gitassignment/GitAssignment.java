@@ -33,8 +33,13 @@ public class GitAssignment
                 System.out.println("Poornima Bandari");
                 System.out.println("Shivanandana Aleti");
                 System.out.println("Garima Dhakal");
-                System.out.println("Harika Narendra");
-                System.out.println("Srinivas Kaleru");
-                System.out.println("Raghu Varan Reddy Malladi");
+            System.out.println("Harika Narendra");
+            System.out.println("Srinivas Kaleru");
+            System.out.println("Nishitha Reddy Nalla");
+            System.out.println("Nyruthi Pachika");
+		System.out.println("Abdul Khaliq Shaik");
+                System.out.println("Narayana Praveen");
+                System.out.println("Prthyusha Ragireddy");
+                System.out.println("Mohan Muralidhar Bikkina");
 	}
 }
