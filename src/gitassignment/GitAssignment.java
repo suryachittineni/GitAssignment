@@ -48,5 +48,6 @@ public class GitAssignment
                 System.out.println("Krishna Muduganti");
                 System.out.println("Anusha Tumula");
                 System.out.println("Sradhika Chinthapatla");
+                System.out.println("Santhosh Palla");
 	}
 }
